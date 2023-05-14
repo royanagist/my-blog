@@ -30,7 +30,7 @@ const Nav = () => {
                 className="nav-link fw-semibold fs-4"
                 href="/article?page=1"
               >
-                Article
+                Articles
               </Link>
             </li>
             <li className="nav-item">
