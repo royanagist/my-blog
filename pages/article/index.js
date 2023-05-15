@@ -20,7 +20,7 @@ const Articles = ({ article }) => {
     <section>
       <hr />
 
-      <h1 className="text-center">Article Lists</h1>
+      <h1 className="text-center">Article List</h1>
 
       <hr className="mb-5" />
 
