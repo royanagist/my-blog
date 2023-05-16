@@ -16,7 +16,7 @@ const Meta = ({ title, keywords, description }) => {
 Meta.defaultProps = {
   title: 'my-blog',
   keywords: 'web development, programming',
-  description: 'Get the latest news in web dev',
+  description: 'Royan Agist Ramadhan blog challenge test synapsi',
 };
 
 export default Meta;
